@@ -1,4 +1,5 @@
 import 'package:fluteruikits/Charts/SalesHomepage.dart';
+import 'package:fluteruikits/Charts/task.dart';
 import 'package:flutter/material.dart';
 import 'Charts/taskHomepage.dart';
 
@@ -12,7 +13,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primaryColor: Color(0xff543B7A),
       ),
-      home: SalesHomePage(),
+      home: TaskHomePage(),
       //home:SalesHomePage(),
     );
   }
