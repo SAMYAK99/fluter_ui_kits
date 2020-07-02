@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "305041047",
+    "firebase_url": "https://authfirebase-27ba1.firebaseio.com",
+    "project_id": "authfirebase-27ba1",
+    "storage_bucket": "authfirebase-27ba1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305041047:android:cd6d46dab5045d41d4e3d2",
+        "android_client_info": {
+          "package_name": "com.projects.firebaseandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305041047-h7n4bjvl8c82ghjm2h2kha8clov2kob1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkCLUv7B379zDWjBywM8r9RE92DdwycfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305041047-h7n4bjvl8c82ghjm2h2kha8clov2kob1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305041047:android:1f7456e7e20366b4d4e3d2",
+        "android_client_info": {
+          "package_name": "com.projects.firebasewarmup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305041047-m6d1vgmm9492ebaln5si6bnpslm9r6b7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.projects.firebasewarmup",
+            "certificate_hash": "51d3fbe55d41f87984b5be93b16a5706f3235fc5"
+          }
+        },
+        {
+          "client_id": "305041047-h7n4bjvl8c82ghjm2h2kha8clov2kob1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkCLUv7B379zDWjBywM8r9RE92DdwycfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305041047-h7n4bjvl8c82ghjm2h2kha8clov2kob1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305041047:android:7bd77c2c69b2c899d4e3d2",
+        "android_client_info": {
+          "package_name": "com.projects.fluteruikits"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305041047-h7n4bjvl8c82ghjm2h2kha8clov2kob1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkCLUv7B379zDWjBywM8r9RE92DdwycfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305041047-h7n4bjvl8c82ghjm2h2kha8clov2kob1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
